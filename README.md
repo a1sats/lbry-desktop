@@ -94,6 +94,7 @@ Bug reports, fixes and feedback are welcome: open an
 
 Please don't report security problems in public issues. Report them privately through this
 repository's [Security tab](https://github.com/bitcoinbrisbane/lbry-desktop/security/advisories/new).
+See [SECURITY.md](SECURITY.md) for what to include and what's in scope.
 
 ## License
 
